@@ -1,4 +1,6 @@
-First, install the Github gem. Use the update version from https://github.com/rud/gowalla
+This is a very basic script to download spots you've visited in Gowalla. Since Gowalla hasn't released any data migration tools yet, I though I'd cobble something together beofre it's too late.
+
+First, install the Github gem. Use the updated version from https://github.com/rud/gowalla or download a prebuilt gem directly from https://github.com/downloads/gtcaz/gowalla-bak/gowalla-0.5.8.gem
 
 Next, cp config.rb.EXAMPLE to config.rb and add your login information and API key
 
