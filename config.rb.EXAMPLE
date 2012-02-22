@@ -1,0 +1,4 @@
+# Config file
+GOWALLA_USERNAME = 'username'
+GOWALLA_PASS = 'password'
+GOWALLA_API_KEY = 'your-api-key'
